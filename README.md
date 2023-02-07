@@ -30,5 +30,13 @@ A solução de DevOps MultCloud escolhida visa aproveitar as vantagens de cada p
 
 Com esta solução, é possível garantir uma gestão eficiente de aplicações em ambientes de nuvem, oferecendo escalabilidade e flexibilidade para atender às demandas do negócio.
 
+## Tabela de requisitos não funcionais
 
-
+| Requisitos não funcionais | AWS | Azure | Solução |
+| --- | --- | --- | --- |
+| Escalabilidade | EC2 com Auto Scaling Group | AKS | Auto Scaling |
+| Disponibilidade | ELB | Load Balancer | Load Balancing |
+| Desempenho | EC2 instances | App Services | Compute |
+| Segurança | Codecommit, Codebuild, Codedeploy, Codepipeline | Azure Repos, Azure Pipelines, Azure Deployment Slots, Azure DevOps | Source Code Management and Continuous Integration/Delivery |
+| Armazenamento | S3 Bucket | Storage Account | Storage |
+| Banco de Dados | RDS Database | SQL Database | Database |
