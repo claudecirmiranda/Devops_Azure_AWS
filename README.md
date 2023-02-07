@@ -1,8 +1,8 @@
-# Solução de DevOps Multi-Nuvem
+# Solução de DevOps MultCloud
 
 ![Devops MultCloud](https://github.com/claudecirmiranda/Devops_Azure_AWS/blob/main/aws_and_azure_devops_solution.png)
 
-Este repositório descreve a arquitetura de uma solução de DevOps multi-nuvem que utiliza serviços tanto da **AWS** quanto da **Azure**. A solução visa proporcionar flexibilidade e escalabilidade na gestão de aplicações em ambientes de nuvem.
+Este repositório descreve a arquitetura de uma solução de DevOps MultCloud que utiliza serviços tanto da **AWS** quanto da **Azure**. A solução visa proporcionar flexibilidade e escalabilidade na gestão de aplicações em ambientes de nuvem.
 
 ## AWS DevOps
 
@@ -26,7 +26,7 @@ A solução de DevOps na Azure consiste nos seguintes componentes:
 
 ## Escolhas de Solução
 
-A solução de DevOps multi-nuvem escolhida visa aproveitar as vantagens de cada provedor de nuvem e proporcionar uma integração suave entre os componentes de DevOps. Além disso, a solução permite que as equipes de desenvolvimento possam trabalhar com a nuvem de sua preferência, sem limitações na gestão de aplicações.
+A solução de DevOps MultCloud escolhida visa aproveitar as vantagens de cada provedor de nuvem e proporcionar uma integração suave entre os componentes de DevOps. Além disso, a solução permite que as equipes de desenvolvimento possam trabalhar com a nuvem de sua preferência, sem limitações na gestão de aplicações.
 
 Com esta solução, é possível garantir uma gestão eficiente de aplicações em ambientes de nuvem, oferecendo escalabilidade e flexibilidade para atender às demandas do negócio.
 
