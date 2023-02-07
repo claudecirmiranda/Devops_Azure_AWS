@@ -1,6 +1,6 @@
 # Solução de DevOps MultCloud
 
-![Devops MultCloud](https://github.com/claudecirmiranda/Devops_Azure_AWS/blob/main/aws_and_azure_devops_solution.png)
+![Devops MultCloud](https://raw.githubusercontent.com/claudecirmiranda/Devops_Azure_AWS/main/aws_and_azure_devops_solution.png)
 
 Este repositório descreve a arquitetura de uma solução de DevOps MultCloud que utiliza serviços tanto da **AWS** quanto da **Azure**. A solução visa proporcionar flexibilidade e escalabilidade na gestão de aplicações em ambientes de nuvem.
 
